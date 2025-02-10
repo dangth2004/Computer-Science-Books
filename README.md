@@ -13,6 +13,7 @@
 - T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, Introduction to Algorithms, 4th edition, MIT Press, 2022
 ## Operating Systems and Computer Networks
 - A. S. Tanenbaum and H. Bos, Modern Operating Systems, 4th edition, Pearson, 2015
+- Andrew S, Tanenbaum and David J. Wetherall, Computer Networks, 5th edition, Pearson, 2011
 ## Principal of Programming Languages
 - John E. Hopcroft, Rajeev Motwani and Jeffrey D. Ullman, Introduction to Automata Theory, Languages, and Computation, 3rd edition, Pearson, 2007
 - Michael L. Scott, Programming Language Pragmatics, 4th edition, Morgan Kaufmann, 2016
